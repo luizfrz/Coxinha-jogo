@@ -19,4 +19,3 @@ if pegacox=5
    room_goto_next()
 }
 
-
